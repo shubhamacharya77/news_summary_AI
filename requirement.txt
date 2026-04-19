@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+dotenv
+huggingface_hub
+newsapi-python
+
