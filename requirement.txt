@@ -3,4 +3,7 @@ fastapi
 dotenv
 huggingface_hub
 newsapi-python
+openai
+voxcpm
+soundfile 
 
